@@ -2,10 +2,10 @@
 
 | Competitions                                    | Download                                                                           | Resources                                                       |
 |-------------------------------------------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| [Facial Recognition](#facial-recognition)       | [fer2013.csv](https://myuni.adelaide.edu.au/courses/101932/files/16922651?wrap=1)  | [notebook](resources/Facial_Expression_Recognition_2025.ipynb)  |
-| [Flower Classification](#flower-classification) | [flower.zip](https://myuni.adelaide.edu.au/courses/101932/files/16922639?wrap=1)   | [notebook](resources/Flower_Classification_2025.ipynb)          |
-| [Animal Classification](#road-segmentation)     | [animal.zip](https://myuni.adelaide.edu.au/courses/101932/files/16922809?wrap=1)   | [notebook](resources/Animal_Classification_2025.ipynb)          |
-| [Road Segmentation](#animal-classification)     | [seg_data.zip](https://myuni.adelaide.edu.au/courses/101932/files/16922794?wrap=1) | [notebook](resources/Segmentation_2025.ipynb)                   | 
+| [Facial Recognition](#facial-recognition)       | [fer2013.csv](https://myuni.adelaide.edu.au/courses/105236/files/17443097?wrap=1)  | [notebook](resources/Facial_Expression_Recognition_2025.ipynb)  |
+| [Flower Classification](#flower-classification) | [flower.zip](https://myuni.adelaide.edu.au/courses/105236/files/17442946?wrap=1)   | [notebook](resources/Flower_Classification_2025.ipynb)          |
+| [Animal Classification](#road-segmentation)     | [animal.zip](https://myuni.adelaide.edu.au/courses/105236/files/17443070?wrap=1)   | [notebook](resources/Animal_Classification_2025.ipynb)          |
+| [Road Segmentation](#animal-classification)     | [seg_data.zip](https://myuni.adelaide.edu.au/courses/105236/files/17443098?wrap=1) | [notebook](resources/Segmentation_2025.ipynb)                   | 
 
 ### Downloads
 The download links contain the datasets. 
